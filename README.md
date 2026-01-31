@@ -67,3 +67,8 @@
 ### 51. Python with multi-threading
 ### 52. Logging in Python
 ### 53. Flask: an API framework
+
+
+## References
+
+The topics are added here with a purpose of notes for the following course: [Python DSA Bootcamp](https://www.udemy.com/course/complete-python-dsa-bootcamp/)
