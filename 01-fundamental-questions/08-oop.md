@@ -1,0 +1,5 @@
+- Coding Exercise 81: Bank Account System
+- Coding Exercise 82: Calculator
+- Coding Exercise 83: Complex Number Class
+- Coding Exercise 84: Fraction Class
+- Coding Exercise 85: Implementing our own List Class
