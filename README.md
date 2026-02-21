@@ -14,7 +14,33 @@
 ## Fundamentals I - Practice
 
 ### 09. Pattern practice questions
+
+1. Square of side 'N'
+2. Hollow square of side 'N'
+3. Rectangle pattern
+4. Right angled triangle
+5. Inverted right angled triangle
+6. Pyramic pattern
+7. Inverted pyramid pattern
+8. Right angled triangle with numbers
+9. Floyds triangle
+10. Diamond pattern
+11. Right angled triangle II
+12. Sandglass pattern
+13. Hollow right triangle
+14. Hollow inverted right triangle
+15. Number pyramid pattern
+
+
 ### 10. Function practice questions
+
+1. Celsius to Fahrenheit
+2. Area of a Rectangle
+3. Distance covered by a Vehicle
+4. Number of Rounds of Lift
+5. Line Equation
+
+
 ### 11. In-built data structures practice questions
 ### 12. Mathematics practice questions
 ### 13. String practice questions
