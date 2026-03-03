@@ -5,6 +5,8 @@
 - Coding Exercise 20: Line Equation
 
 ### 1. Celsius to Fahrenheit
+
+
 Problem Description:
 
 You are given a temperature in Celsius. Your task is to convert it to Fahrenheit and return the result.
@@ -13,17 +15,15 @@ Formula:
 
 To convert Celsius to Fahrenheit, use the formula:
 
+```
 F = (9/5 * C) + 32
+```
 
 Where F is the temperature in Fahrenheit and C is the temperature in Celsius.
-
-
 
 Input:
 
 A floating-point number C representing the temperature in Celsius.
-
-
 
 Output:
 
@@ -31,7 +31,7 @@ A floating-point number representing the temperature in Fahrenheit.
 
 
 
-Example:
+**Example:**
 
 Input: C = 25
 Output: 77.0
@@ -41,6 +41,7 @@ Output: 32.0
 
 
 ### 2. Area of a Rectangle
+
 Problem Description:
 
 You are given the length and breadth of a rectangle. Your task is to compute and return the area of the rectangle.
@@ -51,21 +52,15 @@ To calculate the area of a rectangle:
 
 Area=length×breadth
 
-
-
 Input:
 
 Two floating-point numbers, length and breadth, representing the dimensions of the rectangle.
-
-
 
 Output:
 
 A floating-point number representing the area of the rectangle.
 
-
-
-Example:
+**Example:**
 
 Input: length = 5, breadth = 3
 Output: 15.0
@@ -98,7 +93,7 @@ A floating-point number representing the distance traveled.
 
 
 
-Example:
+**Example:**
 
 Input: speed = 60, time = 2
 Output: 120.0
@@ -126,7 +121,7 @@ An integer representing the number of rounds the lift needs to cover to transpor
 
 
 
-Example:
+**Example:**
 
 Input: n = 10, capacity = 3
 Output: 4
@@ -156,7 +151,7 @@ A floating-point number representing the value of yyy corresponding to the given
 
 
 
-Example:
+**Example:**
 
 Input: slope = 2, intercept = 3, x = 4
 Output: 11.0
